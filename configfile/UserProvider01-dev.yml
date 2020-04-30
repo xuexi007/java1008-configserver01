@@ -12,4 +12,3 @@ spring:
       ddl-auto: update
     show-sql: true
 
-ProviderVersion: UserProvider001:88888888V
